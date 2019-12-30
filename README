@@ -1,1 +1,23 @@
+# Experimenting with FastAI ML framework
+
+Some experimentation with various FastAI modules
+
+## Getting Started
+
+If you want to replicate any of these, clone the repo and run the code, it was written and ran in Google Colab
+
+### Prerequisites
+
+None
+
+
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+
 
